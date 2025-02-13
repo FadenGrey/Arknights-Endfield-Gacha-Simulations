@@ -11,10 +11,11 @@
 
 - Clone this project or download and unzip ZIP archive
 - Install Python 3.10.6 or newer (it was tested up to 3.13.2)
+    - Don't forget to check: "Add python.exe to PATH"
 - In the Project directory open cmd
     - Create virtual environment (python -m venv venv)
-    - Activate your virtual environment (python venv\Scripts\activate)
-    - Install dependencies (pip -r install requirements.txt)
+    - Activate your virtual environment (venv\Scripts\activate.bat)
+    - Install dependencies (pip install -r requirements.txt)
     - Run the Project (python main.py)
 
 From now on, each time you run the Project, please make sure virtual environment is activated.
