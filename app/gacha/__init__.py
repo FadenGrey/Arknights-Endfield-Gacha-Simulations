@@ -1,0 +1,1 @@
+from .rate_up_characters_gacha import CharacterGacha

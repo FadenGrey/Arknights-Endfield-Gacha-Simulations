@@ -1,0 +1,42 @@
+{
+    "outputs": [
+        {
+            "name": "individual_pulls_info",
+            "parameters": {
+                "number_of_banners": 3,
+                "enable": true
+            },
+            "description": "How many banners will show their pulls info"
+        },
+        {
+            "name": "summary",
+            "parameters": {
+                "enable": true
+            },
+            "description": "Summary of individual Rate-Up characters pulls"
+        },
+        {
+            "name": "burned_resources",
+            "parameters": {
+                "enable": true
+            },
+            "description": "Summary of wasted pulls and characters"
+        },
+        {
+            "name": "sums",
+            "parameters": {
+                "enable": true
+            },
+            "description": "Summary of maxed out Rate-Up characters pulls"
+        },
+        {
+            "name": "graph",
+            "parameters": {
+                "x_range": 1300,
+                "y_range": 100000,
+                "enable": true
+            },
+            "description": "Draw the graph within the specified range"
+        }
+    ]
+}
