@@ -8,8 +8,8 @@ import statistics
 class Graph:
     @staticmethod
     def draw(gacha: Gacha, x:int = 1300, y:int = 100000):
-        x_range = [1,x]
-        y_range = [1,y]
+        x_range = [-2,x]
+        y_range = [-10,y]
         successfulPulls = []
         for banner in gacha.banners:
             for pull in banner.pulls:

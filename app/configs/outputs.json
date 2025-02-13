@@ -32,8 +32,8 @@
         {
             "name": "graph",
             "parameters": {
-                "x_range": 1300,
-                "y_range": 100000,
+                "x_range": 130,
+                "y_range": 500,
                 "enable": true
             },
             "description": "Draw the graph within the specified range"
