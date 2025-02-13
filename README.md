@@ -20,6 +20,12 @@
 
 From now on, each time you run the Project, please make sure virtual environment is activated.
 
+## Graph
+
+- You can hold left mouse button and then drag to select the area which you'd like to zoom in
+- Or you can double click to zoom out
+- More stuff on the upper-right part of the screen
+
 ## How to tweak Simulation/Output settings
 
 - **app\configs\inputs.json** contains simulation settings
