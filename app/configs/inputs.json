@@ -8,7 +8,7 @@
         {
             "name": "target_rate_up_number",
             "number": 1,
-            "description": "Target number of Rate-Up character copies per bunner"
+            "description": "Target number of Rate-Up character copies per banner"
         },
         {
             "name": "batch_distance",
