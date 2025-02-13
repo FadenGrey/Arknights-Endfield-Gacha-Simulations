@@ -12,7 +12,7 @@
         },
         {
             "name": "batch_distance",
-            "number": 80,
+            "number": 40,
             "description": "How far away do you want to stay away from the common pity (80) when you stop pulling in batches. 0 means always pull in batch, 80 means always pull one by one. If you didn't pick 0, algorithm will stop pull in batches earlier to evade pulling Rate-Up pity (120) in batch"
         }
     ]
